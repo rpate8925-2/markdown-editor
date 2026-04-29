@@ -20,3 +20,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Consolidated duplicate helper functions
 - Reviewed open issues, added labels
+
+## 2026-04-29
+- Verified API endpoint response schema
+- Cross-checked behaviour against spec
+- Reorganised test fixtures
