@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Resolved deprecation warnings
 - Updated CI cache strategy
+
+## 2026-04-29
+- Consolidated duplicate helper functions
+- Reviewed open issues, added labels
