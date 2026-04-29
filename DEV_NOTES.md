@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Reviewed codebase, identified areas for improvement
 - Updated CI cache strategy
+
+## 2026-04-29
+- Resolved deprecation warnings
+- Updated CI cache strategy
